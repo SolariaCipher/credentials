@@ -1,2 +1,5 @@
-# credentials
-Certification proofs and verification links (Coursera/CompTIA and related).
+# Credentials
+
+Verified certificates and milestones.
+
+> Tip: keeping **verification links** is usually enough; PDFs are optional.
